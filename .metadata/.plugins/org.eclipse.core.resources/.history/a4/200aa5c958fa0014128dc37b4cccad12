@@ -1,0 +1,19 @@
+package program1;
+
+import java.util.Scanner;
+
+public class AlgorithmsProgram1 {
+
+	public static void main(String[] args) {
+		
+		if (args.length == 0) {
+			System.out.println("No file passed in.");
+			Scanner kb = new Scanner(System.in);
+			
+		} else {
+			System.out.println("File Passed in");
+		}
+
+	}
+
+}

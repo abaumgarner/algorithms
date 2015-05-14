@@ -1,0 +1,14 @@
+package program1;
+
+public class AlgorithmsProgram1 {
+
+	public static void main(String[] args) {
+		if (args.length == 0) {
+			System.out.println("No file passed in.");
+		}else{
+			
+		}
+
+	}
+
+}
