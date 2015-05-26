@@ -1,0 +1,6 @@
+package program1;
+
+public class Node {
+	int number;
+	int index;
+}

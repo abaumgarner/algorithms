@@ -1,0 +1,23 @@
+package program1;
+
+public class Node {
+	int number;
+	int index;
+
+	public Node(int num, int location) {
+		this.number = num;
+		this.index = location;
+	}
+
+	public String toString() {
+		return this.index + ": " + this.number;
+	}
+	
+	public in getNumber() {
+		return this.number;
+	}
+
+	public int compareTo(Node that) {
+
+	}
+}
